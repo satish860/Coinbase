@@ -33,6 +33,10 @@
   color: #282b2f;
 }
 
+.textColor {
+  color: white;
+}
+
 .footer {
   display: flex;
   flex: 1;
